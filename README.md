@@ -1,13 +1,19 @@
-## ProjetoOrganizadorMP3
+## Projeto Organizador MP3
+>Estado: ![Static Badge](https://img.shields.io/badge/Em_Desenvolvimento-🔨-blue)
 
->Estado:
->
->![Static Badge](https://img.shields.io/badge/Em_Desenvolvimento-🔨-blue)
-
->Linguagens usadas
+>Tecnologias:
 >
 >![Static Badge](https://img.shields.io/badge/CSharp-.Net-purple)
 
-### O que é e por que eu quis fazer o projeto? 
-#### É projeto simples para apreder sobre IO e Logica em CLI e tambem sobre organização em diferentes classes separando papeis por funções classes e treinando a POO usando o C# .Net o objetivo é de fazer um MP3 player que consegue navegar em diferentes diretorios na pasta Music do windows assim listando as musicas e os diretorios
+## Resumo sobre o que é:
+ Projeto Organizador esta sendo desenvolvido em C#.net para organizar em um menu cli os diretorios na pasta /Music do windows permitindo navegar nos diretorios e tocar musicas MP3
 
+## Objetivo:
+É um projeto simples com o objetivo de aprender mais sobre como organizar diferentes resposabilidades em metodos e classes e tambem IO
+
+## Aprendizados:
+> IO (Escrita e leitura com System.IO)
+> POO (Programação orientada a objetos e como organizar melhor as resposabilidades usando a POO)
+> C#.NET (Programação em geral em C# no framework .NET)
+> Uso de referencias para diretorios do windows (Usando o Environment.GetFolderPath para conseguir ter o caminho do /Music do windows)
+> Organização de diretorios no windows
