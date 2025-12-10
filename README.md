@@ -15,5 +15,5 @@
 - Uso de referencias para diretorios do windows (Usando o Environment.GetFolderPath() para conseguir ter o caminho do /Music do ambiente do sistema)
 - Organização de diretorios no windows
 
-
+---
 *É um projeto feito com o objetivo de aprender mais sobre como organizar diferentes resposabilidades em metodos e classes e tambem IO*
