@@ -5,7 +5,7 @@
 >
 >![Static Badge](https://img.shields.io/badge/CSharp-.Net-purple)
 
-## Resumo sobre o que é:
+## Resumo:
  Projeto Organizador esta sendo desenvolvido em C#.net para organizar em um menu cli os diretorios na pasta /Music do windows permitindo navegar nos diretorios e tocar musicas MP3
 
 ## Aprendizados:
