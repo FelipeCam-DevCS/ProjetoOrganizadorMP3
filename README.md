@@ -12,8 +12,8 @@
 É um projeto simples com o objetivo de aprender mais sobre como organizar diferentes resposabilidades em metodos e classes e tambem IO
 
 ## Aprendizados:
-> IO (Escrita e leitura com System.IO)
-> POO (Programação orientada a objetos e como organizar melhor as resposabilidades usando a POO)
-> C#.NET (Programação em geral em C# no framework .NET)
-> Uso de referencias para diretorios do windows (Usando o Environment.GetFolderPath para conseguir ter o caminho do /Music do windows)
-> Organização de diretorios no windows
+- IO (Escrita e leitura com System.IO)
+- POO (Programação orientada a objetos e como organizar melhor as resposabilidades usando a POO)
+- C#.NET (Programação em geral em C# no framework .NET)
+- Uso de referencias para diretorios do windows (Usando o Environment.GetFolderPath para conseguir ter o caminho do /Music do windows)
+- Organização de diretorios no windows
