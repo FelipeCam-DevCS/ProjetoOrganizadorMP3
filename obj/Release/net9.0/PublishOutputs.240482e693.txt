@@ -1,0 +1,11 @@
+C:\Users\Felip\Documents\Projetos em C#\MP3Player\bin\Release\net9.0\publish\MP3Player.exe
+C:\Users\Felip\Documents\Projetos em C#\MP3Player\bin\Release\net9.0\publish\MP3Player.dll
+C:\Users\Felip\Documents\Projetos em C#\MP3Player\bin\Release\net9.0\publish\MP3Player.deps.json
+C:\Users\Felip\Documents\Projetos em C#\MP3Player\bin\Release\net9.0\publish\MP3Player.runtimeconfig.json
+C:\Users\Felip\Documents\Projetos em C#\MP3Player\bin\Release\net9.0\publish\MP3Player.pdb
+C:\Users\Felip\Documents\Projetos em C#\MP3Player\bin\Release\net9.0\publish\NAudio.dll
+C:\Users\Felip\Documents\Projetos em C#\MP3Player\bin\Release\net9.0\publish\NAudio.Asio.dll
+C:\Users\Felip\Documents\Projetos em C#\MP3Player\bin\Release\net9.0\publish\NAudio.Core.dll
+C:\Users\Felip\Documents\Projetos em C#\MP3Player\bin\Release\net9.0\publish\NAudio.Midi.dll
+C:\Users\Felip\Documents\Projetos em C#\MP3Player\bin\Release\net9.0\publish\NAudio.Wasapi.dll
+C:\Users\Felip\Documents\Projetos em C#\MP3Player\bin\Release\net9.0\publish\NAudio.WinMM.dll
