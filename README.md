@@ -1,0 +1,1 @@
+É projeto simples para apreder sobre IO e Logica em CLI usando o C# .Net o objetivo é de fazer um MP3 player que consegue navegar em diferentes diretorios na pasta Music do windows assim listando as musicas e os diretorios
